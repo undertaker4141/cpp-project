@@ -1,0 +1,1 @@
+{"name":"Local: P_3","url":"/home/undertaker4141/repos/cpp-project/yueLai/P_3.cpp","tests":[{"id":1747136891024,"input":"3\nABCC\nAABBBBDDDDD\nABCDFFFF","output":"Case 1: AB\nCase 2: empty\nCase 3: ABCD"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/undertaker4141/repos/cpp-project/yueLai/P_3.cpp","group":"local","local":true}

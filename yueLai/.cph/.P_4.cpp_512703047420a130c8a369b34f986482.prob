@@ -1,0 +1,1 @@
+{"name":"Local: P_4","url":"/home/undertaker4141/repos/cpp-project/yueLai/P_4.cpp","tests":[{"id":1747138198698,"input":"5 5\nTTTBB\nTTBBT\nTTTBB\nTBBBB\nBBTTT\n3 3\nBBT\nBTT\nTTB","output":"Case 1:2\nCase 2:-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/undertaker4141/repos/cpp-project/yueLai/P_4.cpp","group":"local","local":true}
